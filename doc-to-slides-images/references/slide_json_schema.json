@@ -1,0 +1,24 @@
+{
+  "deck_title": "string",
+  "deck_subtitle": "string",
+  "source_type": "document|web|pasted",
+  "style_global": {
+    "style_name": "string",
+    "palette": ["#RRGGBB", "#RRGGBB", "#RRGGBB"],
+    "background": "light|dark|gradient",
+    "typography": "sans-serif modern|humanist|mono|serif",
+    "icon_style": "flat|outline|duotone",
+    "illustration_style": "flat vector|isometric|hand-drawn minimal"
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "layout_blueprint": "TITLE|AGENDA|SECTION|CONTENT_LEFT_VISUAL_RIGHT|VISUAL_LEFT_CONTENT_RIGHT|TWO_COLUMN|TIMELINE|PROCESS|COMPARISON|METRICS|CHECKLIST|QUOTE|SUMMARY|CTA",
+      "slide_title": "string",
+      "bullets": ["string"],
+      "visual_intent": "string",
+      "notes": "string",
+      "image_prompt": "string"
+    }
+  ]
+}
